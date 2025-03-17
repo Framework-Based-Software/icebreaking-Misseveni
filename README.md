@@ -3,7 +3,7 @@
 Hi! I'm [ZHANG XINYUE], a student in the Framework-Based Software Design and Development course. 
 I [expect to learn a lot about modern software maintenance practices and how to work with legacy systems].
 
-- **Fun fact**: I love watching movies or writing some stories in my free time.
+- **Fun fact**: I love watching movies or writing some stories in my free time. I want to make more friends too.
 - **Course expectations**: To gain hands-on experience in maintaining and evolving software.
 
 ![My Image](image.jpg)  <!-- Link to the uploaded image -->
